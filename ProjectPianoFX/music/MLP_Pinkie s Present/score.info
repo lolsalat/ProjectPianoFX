@@ -1,0 +1,5 @@
+name=MLP_Pinkie s Present
+part=RIGHT:RIGHT.SPART
+part=LEFT:LEFT.SPART
+video=video.mp4
+videooffset=2500

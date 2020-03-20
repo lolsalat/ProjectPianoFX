@@ -1,0 +1,5 @@
+name=SuperMarioOverworld
+part=LEFT:left.SPART
+part=RIGHT:right.SPART
+speed=2
+webvideo=https://www.youtube.com/watch?v=ta7ufW0Prws

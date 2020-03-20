@@ -1,0 +1,8 @@
+# General information
+name=BetterWayToBeBad
+video=video.mp4
+videooffset=500
+
+# Parts
+part=RIGHT:RIGHT.SPART
+part=LEFT:LEFT.SPART

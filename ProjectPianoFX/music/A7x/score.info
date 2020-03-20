@@ -1,0 +1,6 @@
+# General information
+name=A7x
+
+# Parts
+part=RIGHT:RIGHT.SPART
+part=LEFT:LEFT.SPART

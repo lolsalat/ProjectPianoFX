@@ -1,0 +1,4 @@
+name=Moonlight3rdMovement
+part=RIGHT:RIGHT.SPART
+part=LEFT:LEFT.SPART
+background=background.jpg
