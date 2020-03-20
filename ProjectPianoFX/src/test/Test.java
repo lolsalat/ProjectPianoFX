@@ -95,7 +95,7 @@ public class Test extends Application{
 
 		helper.getPiece().addObserver(player);
 		
-		String p= "ThisDayAria";
+		String p= "PokemonTheme";
 
 		Piece piece = IO.readPiece(new File("music/" + p + "/score.info"));
 		
